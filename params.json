@@ -1,0 +1,6 @@
+{
+  "name": "Jungle Rush",
+  "tagline": "Create an Android game with Andengine - a free Android 2D OpenGL Game Engine",
+  "body": "### Jungle Rush\r\nJungle Rush is a \"rock-paper-scissors like\" game build with [Andengine](http://www.andengine.org). The bite circle is modified to elephant-cat-mice. In the game, targets will keep dropping from the top of the screen, and the player have to click the right button on the bottom for biting targets.\r\n\r\n\r\nThe UI style and sound effects can be exchanged in: `./../JungleRushAlpha/app/src/main/assets`\r\n\r\nEnjoy!\r\n![Jungle Rush Layout](https://drive.google.com/open?id=0B8-qcfVUg_B_ZjhQQnJmdnRjMDA)\r\n![Jungle Rush Layout](game_junglerush/junglerush_layout.png)\r\n![Jungle Rush Layout](junglerush_layout.png)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
